@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tecnologia',
+    'O que é Tëcnologia?',
+    'conjunto de conhecimentos científicos ou empíricos empregados na produção e comercialização de bens e serviços'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Educação',
+    'Como a tecnologia pode nos ajudar no aprendizado?',
+    'oferece diversas ferramentas e recursos que podem enriquecer e otimizar o processo de aprendizagem, tornando-o mais dinâmico, interativo e acessível'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Tecnologia',
+    'O quão importante ela é para nóis?',
+    'é fundamental para impulsionar negócios e transformar realidades'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Produtividade',
+    'o quão produtivo é a tecnologia?',
+    'A tecnologia pode aumentar significativamente a produtividade, tanto em nível individual quanto em nível organizacional'
 )
